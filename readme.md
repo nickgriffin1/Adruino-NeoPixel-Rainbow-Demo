@@ -3,7 +3,8 @@ This code will display text of your choosing in a rainbow patten on a Adruino Un
 
 #Hardware needed
 -1 Arduino Uno or similar board
--1 5x8 Adafruit NeoPixel Shield (Note: can be adjusted to other boards by editing line 8)
+-1 5x8 Adafruit NeoPixel Shield 
+ Note: can be adjusted to other boards by editing line 8
 
 #Dependencies
 -Adafruit GFX
