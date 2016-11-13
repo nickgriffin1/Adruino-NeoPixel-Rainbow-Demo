@@ -15,3 +15,6 @@ This code will display text of your choosing in a rainbow patten on a Adruino Un
 * Install dependencies listed above (https://www.arduino.cc/en/Guide/Libraries)
 * Open this file in Arduino studio
 * Hit the run button
+
+#License 
+MIT - do whatever you want with it
